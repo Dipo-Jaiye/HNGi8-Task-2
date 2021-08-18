@@ -1,11 +1,3 @@
-let contactForm = document.getElementById("contact");
-
-contactForm.addEventListener("submit",(ev)=>{
-    ev.preventDefault();
-    let contactSection = document.getElementById("contact-section");
-    contactSection.innerHTML = "Message sent!";
-});
-
 let whatsappButton = document.getElementById("whatsapp");
 let whatsappMessage = document.getElementById("message");
 whatsappButton.addEventListener("click",(ev)=>{
