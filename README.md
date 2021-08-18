@@ -6,7 +6,7 @@ To run the program, clone the repo and run
 ```cmd
 node hello
 ```  
-It requires Node(any version) installed on your system.
+It requires Node (any version) installed on your system.
 
 ## Resumè page (Backend)
 **Task**: Build an interactive resumè page that contains a form. Host the page on heroku.  
@@ -24,3 +24,4 @@ After copying, change the default environment variables to your personal ones. T
 ```cmd
 npm run dev
 ```
+It requires Node (12+) installed on your system.
